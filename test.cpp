@@ -1,1 +1,2 @@
-Console.WriteLine("aaaa");
+﻿Console.WriteLine("aaaa");
+ゾウ
